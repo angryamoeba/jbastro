@@ -16,6 +16,7 @@ categories = ["themes", "syntax"]
   src = "img/2019/03/pic03.jpg"
   alt = "Valley"
   stretch = "horizontal"
+  
 draft = true  
 +++
 

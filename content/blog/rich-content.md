@@ -8,6 +8,7 @@ tags = ["shortcodes", "privacy"]
   src = "img/main/logo.jpg"
   alt = "Fox"
   stretch = "Vertical"
+  
 draft = true  
 +++
 
