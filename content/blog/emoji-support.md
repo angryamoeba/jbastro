@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Emoji Support"
 description = "Guide to emoji usage in Hugo"
 author = "Hugo Authors"
@@ -8,8 +9,6 @@ tags = ["emoji"]
   src = "img/2019/03/pic02.jpg"
   alt = "Desert Scene"
   stretch = "stretchH"
-  
-draft = true  
 +++
 
 Emoji can be enabled in a Hugo project in a number of ways.
