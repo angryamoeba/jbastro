@@ -8,6 +8,7 @@ tags = ["markdown", "text"]
   src = "img/2019/03/pic03.jpg"
   alt = "Valley"
   stretch = "horizontal"
+draft = "true"  
 +++
 
 Lorem est tota propiore conpellat pectoribus de

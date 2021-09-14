@@ -16,6 +16,7 @@ categories = ["themes", "syntax"]
   src = "img/2019/03/pic03.jpg"
   alt = "Valley"
   stretch = "horizontal"
+draft = "true"  
 +++
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
