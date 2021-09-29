@@ -1,15 +1,14 @@
-+++
-draft = true
+---
+draft = false
 title = "ASIAIR Plus Initial Review"
 description = "Initial thoughts on the ASIAIR Plus"
 author = "Josh"
 date = "2021-09/29"
 tags = ["asiair","review"]
-[[images]]
-  src = "static\img\blog\ASIAIR Plus included.jpg"
-  alt = "ASIAIR Plus"
-  stretch = "stretchH"
-+++
+image_src = "static\img\blog\ASIAIR Plus included.jpg"
+image_alt = "ASIAIR Plus"
+image_stretch = "stretchH"
+---
 
 ## I got my hands on an ASIAIR Plus!!
 
