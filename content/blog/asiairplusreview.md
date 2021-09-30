@@ -1,4 +1,4 @@
----
++++
 title: "ASIAIR Plus Initial Review"
 author: "Josh"
 description: "Initial thoughts on the ASIAIR Plus"
@@ -6,7 +6,7 @@ date: "2021-09-29"
 image_src: "img\blog\ASIAIRPlusincluded.jpg"
 image_alt: "ASIAIR Plus"
 draft: false
----
++++
 
 ## I got my hands on an ASIAIR Plus!!
 
