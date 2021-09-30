@@ -3,13 +3,12 @@ draft: false
 title: "ASIAIR Plus Initial Review"
 author: "Josh"
 description: "Initial thoughts on the ASIAIR Plus"
-date: "2021-09-29"
-image_src: "img/blog/ASIAIRPlusincluded.jpg"
-image_alt: "ASIAIR Plus"
-image_stretch: "stretchH"
+date: "2021-09-30"
 ---
 
 ## I got my hands on an ASIAIR Plus!!
+
+![](/img/blog/ASIAIRPlusincluded.jpg)
 
 I was selected as one of the ASIAIR Plus Experience Officers in September of 2021. To say I was excited and shocked is an understatment. While I did receive the Plus early and with a discount I did still have to purchase it with my own money. Once I finally received the Plus it was time to dig into it and see how it compared to the ASIAIR Pro that I've been using for the last year.
 
