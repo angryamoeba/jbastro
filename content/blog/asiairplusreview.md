@@ -4,7 +4,7 @@ title: "ASIAIR Plus Initial Review"
 author: "Josh"
 description: "Initial thoughts on the ASIAIR Plus"
 date: "2021-09-29"
-image_src: "/img/blog/ASIAIRPlusincluded.jpg"
+image_src: "img/blog/ASIAIRPlusincluded.jpg"
 image_alt: "ASIAIR Plus"
 image_stretch: "vertical"
 ---
@@ -29,6 +29,6 @@ The last of the initial testing I did was to see how the camera cooling reacted 
 
 ![](/img/blog/CameraCooler.PNG)
 
-Overall I am quite please with the Plus so far and all of it's added features. There are a few quirks as to be expected with any new product. While I wouldn't necessarily say it's worth upgrading from the Pro unless the WiFi range is your main concern, it is definitely something to consider purchasing to replace having to physically go to your mount. The Plus will replace the Pro in my setup, and the Pro will be placed in backup position. 
+Overall I am quite pleased with the Plus so far and all of it's added features. There are a few quirks as to be expected with any new product. While I wouldn't necessarily say it's worth upgrading from the Pro unless the WiFi range is your main concern, it is definitely something to consider purchasing to replace having to physically go to your mount. The Plus will replace the Pro in my setup, and the Pro will be placed in backup position. 
 
 If you have any questions, please don't hesitate to ask!
