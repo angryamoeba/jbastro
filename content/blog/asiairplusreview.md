@@ -3,7 +3,6 @@ title: "ASIAIR Plus Initial Review"
 description: "Initial thoughts on the ASIAIR Plus"
 author: "Josh"
 date: "2021-09-29"
-tags: ["ASIAIR"]
 image_src: "static\img\blog\ASIAIRPlusincluded.jpg"
 image_alt: "ASIAIR Plus"
 draft: false
