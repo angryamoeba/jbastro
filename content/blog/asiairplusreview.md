@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "ASIAIR Plus Initial Review"
 author: "Josh"
 description: "Initial thoughts on the ASIAIR Plus"
