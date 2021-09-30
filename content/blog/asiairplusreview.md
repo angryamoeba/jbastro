@@ -6,6 +6,7 @@ description: "Initial thoughts on the ASIAIR Plus"
 date: "2021-09-29"
 image_src: "static/img/blog/ASIAIRPlusincluded.jpg"
 image_alt: "ASIAIR Plus"
+image_stretch: "vertical"
 ---
 
 ## I got my hands on an ASIAIR Plus!!
