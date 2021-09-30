@@ -1,9 +1,9 @@
 ---
 title: "ASIAIR Plus Initial Review"
-description: "Initial thoughts on the ASIAIR Plus"
 author: "Josh"
+description: "Initial thoughts on the ASIAIR Plus"
 date: "2021-09-29"
-image_src: "static\img\blog\ASIAIRPlusincluded.jpg"
+image_src: "img\blog\ASIAIRPlusincluded.jpg"
 image_alt: "ASIAIR Plus"
 draft: false
 ---
@@ -22,11 +22,11 @@ I had connected to the Plus with both my Android phone and 2021 iPad Pro. Eventu
 
 You can put the Plus in __Station Mode__ and connect it to your home WiFi. When you do it this way you're able to control the Plus while still connected to your home WiFi which will further increase the range. Once I did the initial range test, I connected through station mode and was able to go throughout my entire house and never lose connection. As you can see in the image below, when you activate station mode you'll have the WiFi network (blurred out in the image) and the letters STA next to it, confirming you're in station mode. As you'll also see in that image, the connected 12V accessories will show the power draw. I was able to turn the percentage down on the Dew Heaters, however when I did this, the Plus would have a constant alert until I got to about 10%. It would go off as soon as I went below 100%, even if I turned the sound off the Plus. Not sure the reasoning behind this, but it is something that I will be investigating further and hope to report back on. You'll also see wattage, amperage voltage and CPU temp. Another bonus is the word for Shutdown and Restart instead of a tiny button to press.
 
-![](static\img\blog\ASIAIR_Information.PNG)
+![](img\blog\ASIAIR_Information.PNG)
 
 The last of the initial testing I did was to see how the camera cooling reacted when I would turn it off and on. When I turned the cooling on, it worked just like it did in the Pro, achieving the desired temperature in a relatively short amount of time. I usually turn the cooling on right when I get everything turned on, so that while I'm going through balancing, focusing, and polar alignment it has time to reach the desired temperature. When I turned the cooler off I noticed something odd. The temperature would go up as expected, but the Cooler percentage would also go up. Usually when the camera is trying to cool, that's when I'd noticed the percentage go up. The cooler was not running on the camera as confirmed by visual and audio inspection, but the app said it was running. Just a small bug that doesn't affect how things actually work. 
 
-![](static\img\blog\CameraCooler.PNG)
+![](img\blog\CameraCooler.PNG)
 
 Overall I am quite please with the Plus so far and all of it's added features. There are a few quirks as to be expected with any new product. While I wouldn't necessarily say it's worth upgrading from the Pro unless the WiFi range is your main concern, it is definitely something to consider purchasing to replace having to physically go to your mount. The Plus will replace the Pro in my setup, and the Pro will be placed in backup position. 
 
